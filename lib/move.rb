@@ -18,6 +18,6 @@ def move(array, index, value = "X")
   array[index] = value
   array.insert(index, value)
   def update_array_at_with(board, index, value = "X")
-   return  board  
+   return  board
   end
 end
